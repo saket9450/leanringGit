@@ -1,2 +1,2 @@
 hello i am saket i am just learning git commands
-i am adding more text just checking
+this is my new line for feature1
